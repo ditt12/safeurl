@@ -21,7 +21,7 @@ Respon otomatis melalui Telegram
 ```bash
 git clone https://github.com/ditt12/safeurl && cd safeurl
 ```
-
+`Jangan lupa Ubah token di .env`
 ```bash
 npm start
 ```
